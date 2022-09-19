@@ -1,0 +1,26 @@
+
+.nav {
+    font-size: 1.3em;
+}
+
+.logo {
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
+.icon {
+    font-size: 2em;
+    position: fixed;
+    top: 25px;
+    right: 40px;
+    color: black;
+    cursor: pointer;
+}
+.homeTitle {
+    margin-top: -20px;
+    text-shadow: -1px -1px 1px #fff, 1px -1px 1px #fff, 1px 1px 1px #ffffff80, 1px 1px 1px #ffffff80,
+    -.5px -3px 30px #ffffff, .5px -3px 30px #ffffff, 5px 3px 30px #ffffff, 5px 3px 30px #ffffff;
+    color: #c07b4f;
+    text-align: center;
+    font-family: 'Philosopher', sans-serif;
+}
